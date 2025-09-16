@@ -3,3 +3,4 @@ streamlit-webrtc
 posecamera 
 numpy 
 matplotlib
+cv2
